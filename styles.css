@@ -5,7 +5,7 @@ mid pink: f26a8d
 dark pink: dd2d4a 
 red: 880d1e */
 
-html {
+/* html {
     background-color: #880d1e;
     font-family: 'Monaco', Courier, monospace;
 }
@@ -41,4 +41,10 @@ h1 {
 
 ul {
     list-style-type: none;
+} */
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+    font-family: sans-serif;
 }
