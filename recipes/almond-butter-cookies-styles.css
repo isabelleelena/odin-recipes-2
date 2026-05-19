@@ -88,10 +88,6 @@ p {
     margin-left: 350px;
 }
 
-.steps {
-    margin-bottom: 20px;
-}
-
 .shadowfour, 
 .shadowfive {
     background-color: #ffc300;
@@ -112,8 +108,9 @@ p {
 }
 
 a {
+    display: inline-block;
     text-decoration: none;
     color: #ffc300;
     margin-left: 350px;
-    text-align: center;
+    margin-top: 20px;
 }

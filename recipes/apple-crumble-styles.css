@@ -1,0 +1,108 @@
+/* 
+colour scheme for apple crumble: 
+red: 4f000b
+light red: 720026
+lightest red: ce4257
+orange: ff7f51
+light orange: ff9b54
+*/
+
+body {
+    font-family: sans-serif;
+    background-color: #4f000b;
+}
+
+h1,
+h2,
+h3,
+p   {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.title,
+.description-card,
+.ingredients,
+.steps,
+.shadowone,
+.shadowtwo,
+.shadowthree,
+.shadowfour,
+.shadowfive {
+    width: 570px;
+    padding: 20px;
+}
+
+.title,
+.description-card,
+.ingredients,
+.steps {
+    background-color: #ff9b54;
+    color: #ce4257;
+    margin-left: 350px;
+}
+
+.shadowone,
+.shadowthree,
+.shadowfour,
+.shadowfive {
+    background-color: #ff7f51;
+    margin-top: 20px;
+    margin-left: 330px;
+}
+
+.shadowone {
+    height: 57px;
+    margin-bottom: -77px;
+}
+
+.shadowtwo {
+    background-color: #720026;
+    margin-left: 330px;
+    height: 773px;
+    margin-bottom: -793px;
+    margin-top: 20px;
+}
+
+.shadowthree {
+    height: 53px;
+    margin-bottom: -73px; 
+
+}
+
+.shadowfour {
+    height: 395px;
+    margin-bottom: -415px; 
+}
+
+.shadowfive {
+    height: 413px;
+    margin-bottom: -433px; */
+}
+
+img {
+    width: 610px;
+    margin-left: 350px;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 350px;
+    color: #ff7f51;
+    margin-top: 10px;
+}
